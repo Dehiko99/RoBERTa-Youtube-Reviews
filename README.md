@@ -1,4 +1,4 @@
-# 🎬 YouTube Comments Analysis — Sentiment & Topic Modeling
+# 🎬 [YouTube Comments Analysis — Sentiment & Topic Modeling](https://github.com/Dehiko99/RoBERTa-Youtube-Reviews)
 
 End-to-end NLP pipeline for analyzing YouTube comments on movies using RoBERTa for sentiment analysis and BERTopic for topic modeling, with full database integration.
 
