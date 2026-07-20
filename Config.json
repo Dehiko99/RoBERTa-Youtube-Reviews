@@ -1,0 +1,96 @@
+{
+    "Avatar":{
+        "url":[
+            "https://www.youtube.com/watch?v=iGQdQX9jy7U",
+            "https://www.youtube.com/watch?v=uS4kVIEa7wc",
+            "https://www.youtube.com/watch?v=IB5ZfTK6idk",
+            "https://www.youtube.com/watch?v=KhIAfz5myhk",
+            "https://www.youtube.com/watch?v=PyuQhFUFG2c",
+            "https://www.youtube.com/watch?v=xQc0KEk9V74",
+            "https://www.youtube.com/watch?v=xzyCkGa-aQs",
+            "https://www.youtube.com/watch?v=HRQwI2f65Lw"
+        ],
+        "director":"James Cameron",
+        "cast" : {
+            "Varang": "Oona Chaplin",
+            "Ronal": "Kate Winslet",
+            "Neytiri": "Zoe Saldana",
+            "Jake Sully": "Sam Worthington",
+            "Kiri": "Sigourney Weaver",
+            "Spider": "Jack Champion",
+            "Colonel Miles Quaritch": "Stephen Lang",
+            "Neteyam": "Jamie Flatters",
+            "Peylak": "David Thewlis",
+            "Reya": "Bailey Bass",
+            "Lo'ak": "Britain Dalton",
+            "Aonung": "Filip Geljo",
+            "Tsu'tey": "Laz Alonso",
+            "Parker Selfridge": "Giovanni Ribisi",
+            "Rotxo": "Duane Wichmann",
+            "Tonowari": "Cliff Curtis",
+            "Eytucan": "Wes Studi",
+            "Generale Frances": "Edie Falco",
+            "Recom Lyle Wainfleet": "Matt Gerald",
+            "Mick Scoresby": "Brendan Cowell",
+            "Dott. Ian Garvin": "Jemaine Clement",
+            "Dottor Max Patel": "Dileep Rao",
+            "Military Trooper": "Stacey King",
+            "Troupe": "Devereau Chumrau"
+        }
+    },
+    "Frankestein":{
+        "url":[
+            "https://www.youtube.com/watch?v=Y7Uan3Uu3uQ&t=6s",
+            "https://www.youtube.com/watch?v=fXdhDRxosnU&t=190s",
+            "https://www.youtube.com/watch?v=3k4ftHm55QI",
+            "https://www.youtube.com/watch?v=FNuGix9FbYY",
+            "https://www.youtube.com/watch?v=H3f5uDCD7sc",
+            "https://www.youtube.com/watch?v=S-PxJMXD3nE"
+        ],
+        "director": "Guillermo del Toro",
+        "cast" : {
+                "Victor Frankenstein": "Oscar Isaac",
+                "The Creature": "Jacob Elordi",
+                "Lady Elizabeth Harlaner": "Mia Goth",
+                "Henrich Harlaner": "Christoph Waltz",
+                "William Frankenstein": "Felix Kammerer",
+                "Baron Leopold Frankenstein": "Charles Dance",
+                "Professor Krempe": "Ralph Ineson",
+                "Captain Anderson": "Lars Mikkelsen",
+                "Chief Officer Larsen": "Nikolaj Lie Kaas",
+                "Blind Man": "David Bradley",
+                "Young Hunter": "Kyle Gatehouse",
+                "Anna-Maria": "Sofia Galasso",
+                "Alma": "Lauren Collins"
+            }
+    },
+    "Wuthering Heights":{
+        "url":[
+            "https://www.youtube.com/watch?v=1dEJd4ztctc",
+            "https://www.youtube.com/watch?v=IPKrqX4vMFg",
+            "https://www.youtube.com/watch?v=Rt7kAOjPFnk",
+            "https://www.youtube.com/watch?v=twxIKZamJFs",
+            "https://www.youtube.com/watch?v=3s_Y8N8EcJM"
+        ],
+        "director":"Emerald Fennell",
+        "cast": {
+                "Catherine Earnshaw": "Margot Robbie",
+                "Heathcliff": "Jacob Elordi",
+                "Isabella Linton": "Alison Oliver",
+                "Heathcliff (young)": "Owen Cooper",
+                "Edgar Linton": "Shazad Latif",
+                "Joseph": "Ewan Mitchell",
+                "Catherine Earnshaw (young)": "Charlotte Mellington",
+                "Nelly Dean": "Hong Chau",
+                "Mr. Earnshaw": "Martin Clunes",
+                "Gallows Master": "Robert Cawsey",
+                "Heathcliff (older)": "Paul Rhys",
+                "Mrs. Burton": "Jessica Knappett",
+                "Zillah": "Amy Morgan",
+                "Sister Mercy": "Vicki Pepperdine",
+                "Jane": "Millie Kent",
+                "Nelly Dean (young)": "Vy Nguyen"
+            }
+                    
+    }
+}
